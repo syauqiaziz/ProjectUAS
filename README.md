@@ -18,13 +18,13 @@ Cara Menjalankan Program :
 
 ### Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
-[Modul Menerapkan MVC pada Bahasa Pemrograman Python](https://drive.google.com/file/d/1LAaF0gbMjVrvAIqbsOkV3Hi6R7vi_irV/view?usp=drivesdk)
+[Modul Menerapkan MVC pada Bahasa Pemrograman Python](https://drive.google.com/file/d/1mJUdn_74JW5WYtGa84FjBfTi4ewCfE5S/view?usp=drivesdk)
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
 
 Berikut link repository github :
 
-https://github.com/syifaaurellia/ProjectUAS.git
+https://github.com/syauqiaziz/ProjectUAS.git
 
 Sekian, Terima Kasih
